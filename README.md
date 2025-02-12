@@ -95,7 +95,7 @@ Me chamo João Victor, tenho 23 anos e sou estudante de Desenvolvimento de Softw
     align="left" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=victorvlone&show_icons=true&theme=dracula&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victorvlone&show_icons=true&theme=tokyonight&locale=pt-br" 
 />
 
 
@@ -103,5 +103,5 @@ Me chamo João Victor, tenho 23 anos e sou estudante de Desenvolvimento de Softw
     align="left" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvlone&theme=dracula&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvlone&theme=tokyonight&custom_title=Tecnologias" 
 />
